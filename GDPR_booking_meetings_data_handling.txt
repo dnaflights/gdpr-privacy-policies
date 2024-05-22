@@ -1,0 +1,68 @@
+DNA Flights - Flights for Biodiversity Sweden AB
+GDPR Compliant Data Protection Policies and Practices
+
+Effective Date: May 22, 2024
+
+At DNA Flights - Flights for Biodiversity, we are committed to protecting your privacy and ensuring that your personal data is handled in a secure and transparent manner. This policy outlines how we collect, use, store, and protect your data in compliance with the General Data Protection Regulation (GDPR).
+
+1. Data Collection
+We collect only the necessary personal data required for booking a meeting with us. The data we collect includes:
+Full Name
+Contact Information (Email Address, Phone Number)
+Meeting Details (Date, Time, Purpose)
+Any additional information you choose to provide in your meeting request
+
+We use the Microsoft Office 365 Bookings system to collect and manage this data securely.
+
+2. Purpose of Data Collection
+The data collected is used exclusively for the following purposes:
+To process and confirm your meeting booking
+To communicate with you regarding your meeting and provide necessary updates
+To prepare for and facilitate the meeting
+To comply with legal obligations
+
+3. Lawful Basis for Processing
+Our processing of your personal data is based on the following lawful bases under GDPR:
+Consent: By booking a meeting with us, you consent to the use of your data as outlined in this policy.
+Contractual Necessity: The processing is necessary to fulfill the meeting arrangement with you.
+Legal Obligations: Compliance with legal and regulatory requirements.
+
+4. Data Storage and Security
+We implement appropriate technical and organizational measures to ensure the security of your personal data, including:
+Encryption of data during transmission and storage
+Secure servers and data storage solutions
+Access controls to limit data access to authorized personnel only
+
+The Microsoft Office 365 Bookings system also follows stringent security protocols to protect your data.
+
+5. Data Retention
+We retain your personal data only for as long as necessary to fulfill the purposes for which it was collected, including:
+For the duration of your meeting and any subsequent interactions related to it
+To comply with legal and regulatory requirements
+For a maximum of 1 year after the completion of your meeting, unless a longer retention period is required or permitted by law
+
+6. Your Rights
+Under the GDPR, you have the following rights concerning your personal data:
+Right to Access: You can request access to your personal data and obtain information about how we process it.
+Right to Rectification: You can request correction of any inaccurate or incomplete data.
+Right to Erasure: You can request deletion of your personal data, subject to certain conditions.
+Right to Restrict Processing: You can request the restriction of processing your data in certain circumstances.
+Right to Data Portability: You can request to receive your data in a structured, commonly used, and machine-readable format.
+Right to Object: You can object to the processing of your data in certain situations.
+
+7. Data Sharing
+We do not share your personal data with third parties, except for:
+Service providers who assist us in operating our business and fulfilling your meeting request
+Legal and regulatory authorities, if required by law
+
+All third parties we engage with are subject to strict data protection obligations and cannot use your data for their own purposes.
+
+8. Changes to This Policy
+We may update this policy from time to time to reflect changes in our practices or for legal reasons. Any changes will be posted on our website, and we will notify you directly if they significantly affect your rights.
+
+9. Contact Us
+If you have any questions or concerns about this policy or your personal data, please contact us at:
+Email: privacy@dnaflights.com
+Address: DNA Flights - Flights for Biodiversity, Scheelevägen 15, Ideon Alfa 3, 223 70 Lund
+
+By booking a meeting with DNA Flights - Flights for Biodiversity, you acknowledge that you have read and understood this policy and consent to the use of your personal data as described.
